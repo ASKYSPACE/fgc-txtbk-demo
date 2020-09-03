@@ -1,6 +1,6 @@
 # 牛顿迭代方法在制导中的应用案例
 本例程配合书中计算制导一章中的牛顿迭代法。
 本文件夹中共有三个文件，其中:
-- ‘main.m’是主函数入口，
-- Dynamics.m和jifen.m是子函数。 
+- main.m是主函数入口
+- Dynamics.m和jifen.m是子函数
 - Dynamics.m是系统模型，jifen.m是系统模型的迭代过程。
