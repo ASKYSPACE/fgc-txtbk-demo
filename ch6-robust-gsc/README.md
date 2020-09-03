@@ -1,3 +1,4 @@
+# 鲁棒变增益控制案例
 本文件是本书第六章鲁棒变增益控制的配套程序。
 其主要含有四个文件，其中主程序为‘GainScheduledExample.m’，‘AirframeData.m’是飞行器与环境变量的参数设置，‘airframemodel.slx’是系统的
 模型，‘airframecontrol.slx’是系统的控制回路。

@@ -1,4 +1,0 @@
-本文件是本书第六章鲁棒变增益控制的配套程序，其主要含有四个文件，其中主程序为‘GainScheduledExample.m’，‘AirframeData.m’是飞行器与环境变量的参数设置，‘airframemodel.slx’是系统的
-模型，‘airframecontrol.slx’是系统的控制回路。
-本程序从‘GainScheduledExample.m‘进入，调用‘airframemodel.slx’与‘airframecontrol.slx’，其中‘airframecontrol.slx’会读取‘AirframeData.m’的初始参数。更加细致的案例可以参考mathwork
-中的’Tuning of Gain-Scheduled Three-Loop Autopilot‘案例。
