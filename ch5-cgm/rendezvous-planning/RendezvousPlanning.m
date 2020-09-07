@@ -7,8 +7,8 @@ disp(' |                         C-GO SCOP                           |');
 disp(' | (Convex-programming based Guidance Optimization using SCOP) |');
 disp(' |           (MATLAB R2016a + ecos  Full Edition)              |');
 disp(' |                    Huan Jiang, Xinfu Liu                    |');
-disp(' |     (Official site: http://www.asky.ac.cn/paper code)       |');
-disp(' |  This is  COS LAB @ Beijing Institute of Tech.(03/21/2019)  |');
+disp(' |     (Official site: http://www.askyspace.com/               |');
+disp(' |  This is  GCS LAB @ Beijing Institute of Tech.(03/21/2019)  |');
 disp(' #==============================================================#');
 g0 = 9.801;
 emiu = 398600E9;      % Unit  m^3/s^2
